@@ -1,0 +1,1 @@
+SELECT * FROM tbvendedores WHERE NOME = 'Cláudia Moraes'

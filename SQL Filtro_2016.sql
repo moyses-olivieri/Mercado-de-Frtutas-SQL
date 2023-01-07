@@ -1,0 +1,3 @@
+SELECT * FROM tbclient;
+
+SELECT * FROM tbclient WHERE YEAR(DATA_NASCIMENTO) = 2016;
