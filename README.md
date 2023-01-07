@@ -1,7 +1,7 @@
 # Treinamento-de-SQL
 
 
-Treinamento da Alura de consulta e manipulação de Dados, utilizando o Banco de Dados MySQL.
+Treinamento da Alura de consulta e manipulação de Dados de um mercado, utilizando o Banco de Dados MySQL.
 
 Conteúdo do Treinamento:
 
